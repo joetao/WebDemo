@@ -1,0 +1,30 @@
+﻿body
+{
+}
+/*类选择器*/
+.foot
+{
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    overflow: hidden; /*下面兼容三种浏览器的渐变色*/
+    filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#b8c4cb,endColorStr=#f6f6f8); /*IE*/
+    background: -moz-linear-gradient(top,#b8c4cb,#f6f6f8); /*火狐*/
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%,from(#b8c4cb), to(#f6f6f8)); /*谷歌*/
+}
+.banner
+{
+    background: url("/Images/banner.gif");
+    background-repeat: no-repeat;
+    height: 100px;
+   ba
+}
+.title
+{
+    font-size: 60px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+
+
+

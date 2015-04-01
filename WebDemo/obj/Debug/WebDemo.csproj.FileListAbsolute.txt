@@ -1,0 +1,9 @@
+c:\users\joetao\documents\visual studio 2010\Projects\WebDemo\WebDemo\bin\WebDemo.dll
+c:\users\joetao\documents\visual studio 2010\Projects\WebDemo\WebDemo\bin\WebDemo.pdb
+c:\users\joetao\documents\visual studio 2010\Projects\WebDemo\WebDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\joetao\documents\visual studio 2010\Projects\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+c:\users\joetao\documents\visual studio 2010\Projects\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
+E:\我的项目\WebDemo\WebDemo\bin\WebDemo.dll
+E:\我的项目\WebDemo\WebDemo\bin\WebDemo.pdb
+E:\我的项目\WebDemo\WebDemo\obj\Debug\WebDemo.dll
+E:\我的项目\WebDemo\WebDemo\obj\Debug\WebDemo.pdb
